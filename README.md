@@ -73,3 +73,9 @@ The **Pharmacy Management System** is a desktop application developed using **C#
 - PurchaseItems
 - Sales
 - SaleItems
+
+## 📄 Project Report
+
+The complete project report is available below.
+
+📥 **[Download Project Report](Report/OOP2 Final Report( Pharmacy Management System).pdf)**
